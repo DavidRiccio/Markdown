@@ -1,8 +1,10 @@
 <h1 align="center">DESARROLLO DE SOFTWARE</h1>
 <p align="center">
 <img src="https://smartrural.net/wp-content/uploads/desarrollo-de-sotware-smartrural.png">
-## Etapas para el desarrollo de software</img>
+</img>
 </p>
+
+## Etapas para el desarrollo de software
 
 1. Planificacion:
 
