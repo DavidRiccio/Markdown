@@ -39,7 +39,7 @@
 
     Esta fase es crucial porque, antes de llegar al usuario, hay que comprobar que el programa ejecute las tareas especificadas. Además, sirve para detectar fallas y analizar el rendimiento del software. 
     <p align="center">
-    <img src=" https://www.um.es/documents/1083928/17665461/pruebas-evaluacion-1.png/740633af-b403-4f16-87ab-6bc7f7f4bc6d?t=1589364889869" width="250" height="150"></img>
+    <img src="https://www.um.es/documents/1083928/17665461/pruebas-evaluacion-1.png/740633af-b403-4f16-87ab-6bc7f7f4bc6d?t=1589364889869" width="250" height="150"></img>
     </p>
    
 
@@ -48,7 +48,7 @@
     Se trata de habilitar el software para que el usuario lo utilice y así resolver cualquier problema o duda que se le presente. 
     
     <p align="center">
-    <img src=" https://ahaslides.com/wp-content/uploads/2023/07/SEO3786-thumb.png" width="250" height="150"></img>
+    <img src="https://ahaslides.com/wp-content/uploads/2023/07/SEO3786-thumb.png" width="250" height="150"></img>
     </p>
 
 
@@ -57,7 +57,7 @@
     Aunque se crea que al poner en práctica el software se acaba el trabajo, esto no es así. Y es que es esencial mantener, optimizar y mejorar el programa para eliminar los errores detectados, adaptar nuevas necesidades o añadir nuevas funcionalidades
     
     <p align="center">
-    <img src=" https://www.abatec.com.mx/wp-content/uploads/mantenimiento-preventivo-abatec-1.png" width="250" height="150"></img>
+    <img src="https://www.abatec.com.mx/wp-content/uploads/mantenimiento-preventivo-abatec-1.png" width="250" height="150"></img>
     </p>
 ## Video Explicativo
 [![Ve al siguiente video](https://img.youtube.com/vi/s5ABwHaN7as/hqdefault.jpg)](https://www.youtube.com/watch?v=s5ABwHaN7as)
