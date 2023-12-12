@@ -10,8 +10,9 @@
 
      Se determina el ámbito del proyecto, el análisis de los riesgos, el estudio de viabilidad, la duración, la estimación del costo y la asignación de recursos a cada 
      fase. 
-
+    <p align="center">
      <img src="https://media.licdn.com/dms/image/C4E12AQFtnZGZFDjW3g/article-cover_image-shrink_720_1280/0/1569284567306?e=2147483647&v=beta&t=3nYHyfY5dkhXEgixE9ZKoeVbMgc5lKkrZFRo-UKFxvs" widht="250" height="150">
+     </p>
 2. Análisis:
 
     Se realiza una exhaustiva investigación para llegar a una comprensión precisa de los requerimientos o características que debe poseer el programa. 
