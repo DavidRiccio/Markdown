@@ -1,5 +1,7 @@
 
 
+[MARKDOWN1](/Markdown1/README.md)
+
 Ir al contenido
 Uso de Gmail con lectores de pantalla
 Habilita las notificaciones de escritorio para Gmail.   Aceptar  No, gracias
@@ -88,9 +90,6 @@ Detalles
   "periodico chachi")
    
    ![VScode](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png "VS STUDIO")
-  ![VScode](hhome/david/Escritorio/Markdown/ETS MARKDOWN/Markdown/imagenes/vscode.jpeg "VS STUDIO")
-   ! [VS CODE](/home/david/Escritorio/Markdown/ETS MARKDOWN/Markdown/imagenes)
-
    >Esto es una cita
 
-   >[![Ve al siguiente video](https://img.youtube.com/Vi/_hI14xuvQag/hqdefault.jpg)](https://www.youtube.com/watch?v=_hI14xuvQag)
+   >[![Ve al siguiente video](https://img.youtube.com/vi/_hI14xuvQag/hqdefault.jpg)](https://www.youtube.com/watch?v=_hI14xuvQag)
