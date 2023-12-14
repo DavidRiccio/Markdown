@@ -4,6 +4,23 @@
 </img>
 </p>
 
+## Tipo de modelo
+1. Modelo Cascada:
+        
+    El desarrollo en cascada (en inglés, waterfall model) es un procedimiento lineal que se caracteriza por dividir los procesos de desarrollo en sucesivas fases de proyecto. 
+2. Modelo interactivo incremental:
+
+    Esta basado en varios ciclos en cascada con retroalimentación. Empleando este modelo, podemos entregar el software en partes pequeñas pero utilizables.
+    
+    Las ventajas de este modelo son las siguientes:
+
+    No se necesita conocer todos los   requisitos.
+
+    Permite una entrega temprana del programa al cliente final por lo que se facilita la retroalimentación.
+3. Metodologias agiles:
+
+    Las metodologías ágiles son aquellas que permiten adaptar la forma de trabajo a las condiciones del proyecto, consiguiendo flexibilidad e inmediatez en la respuesta para amoldar el proyecto y su desarrollo a las circunstancias específicas del entorno.
+    
 ## Etapas para el desarrollo de software
 
 1. Planificacion:
