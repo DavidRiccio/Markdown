@@ -1,5 +1,7 @@
 <h1 align="center">Tipo de modelo</h1>
 
+<p align="center"><img src="https://innatos.com.mx/wp-content/uploads/2020/05/INNATOS-Cosas-a-tener-en-cuenta-SUBTITULO.png"></img></p>
+
 1. Modelo Cascada:
     
     El desarrollo en cascada (en inglés, waterfall model) es un procedimiento lineal que se caracteriza por dividir losprocesos de desarrollo en sucesivas fases de proyecto. 
