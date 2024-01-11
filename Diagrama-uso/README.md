@@ -21,4 +21,4 @@ Ezoic
 
 7. Postcondiciones: Son las condiciones que deben cumplirse después de que el caso de uso .
 
-<img src="/Diagrama-uso/img/Screenshot%202024-01-11%20at%2015-06-07%20app%20transporte.pdf.png">
+<img src="/Diagrama-uso/img/Screenshot%202024-01-11%20at%2015-06-07%20app%20transporte.pdf.png"></img>
