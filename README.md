@@ -7,6 +7,8 @@
 
 [TAREA-SCRUM](/tarea-scrum/scrum.md)
 
+[DIAGRAMS](/Diagramas/)
+
 Ir al contenido
 Uso de Gmail con lectores de pantalla
 Habilita las notificaciones de escritorio para Gmail.   Aceptar  No, gracias
