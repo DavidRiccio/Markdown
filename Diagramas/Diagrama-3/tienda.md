@@ -1,5 +1,5 @@
 <h1 align="center">CASOS DE USO TIENDA ONLINE</h1>
-<img src=""></img>
+<img src="https://github.com/DavidRiccio/Markdown/blob/main/Diagramas/Diagrama-3/Diagrama%20sin%20t%C3%ADtulo.drawio.png"></img>
 
 #### Cliente
 |  Actor | Cliente |
